@@ -1,0 +1,1 @@
+Use -> Lifecycle Aware Adapter
